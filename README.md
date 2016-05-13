@@ -1,0 +1,2 @@
+# BlueTicketAdmin
+BlueTicket administration app.
